@@ -818,19 +818,6 @@ def convert_detections_np(detection_result):
     
 print('Processing started.......')
 
-cap = cv2.VideoCapture("PIE/video_0001.mp4")
-cap = cv2.VideoCapture("PIE/example.mp4")
-cap = cv2.VideoCapture("Jaad/video_0125.mp4")
-cap = cv2.VideoCapture("Jaad/video_0124.mp4")
-cap = cv2.VideoCapture("Jaad/video_0003.mp4")
-cap = cv2.VideoCapture(0)
-cap = cv2.VideoCapture("Jaad/fus1.mp4")
-
-
-cap = cv2.VideoCapture("Jaad/video_0067.mp4")#Multiple detection zebra crossing
-cap = cv2.VideoCapture("Jaad/video_0135.mp4")#Multiple detection zebra crossing
-
-
 
 
 cap = cv2.VideoCapture("Jaad/video_0125.mp4")#Single detection zebra crossing
