@@ -17,7 +17,12 @@ Our research paper is available [here](#) (Link to be provided).
 
 - `Pedetstrian-Detection/`: This folder contains dataset and tlite Google models used in our analyzis to select the best model.
 - `Pedetstrian-Tracking/`: This folder contains SORT algorithm python code.
-- `figures/`: This directory holds visualizations, plots, and figures used in the paper.
+- `RNAC/`: This folder contains
+   RNN_model_creating.py for creating model
+   RNN_model_training.py for training model and saving testing results
+   comparative_table.py for extracting result from results saved during testing of the trained model
+   create_auto_dataset.py for creating Dataset from JAAD
+   "lr 0.00001.rar", "lr 0.0001.rar" and "lr 0.001.rar" are comressed folder which contains our testing results.
 - `results/`: This folder includes evaluation results, metrics, and model outputs.
 
 ## Getting Started
