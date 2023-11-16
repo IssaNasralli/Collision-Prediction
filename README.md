@@ -16,7 +16,7 @@ Our research paper is available [here](#) (Link to be provided).
 ## Repository Contents
 
 - `Pedetstrian-Detection/`: This folder contains dataset and tlite Google models used in our analyzis to select the best model.
-- `Pedetstrian-Detection/`: The code directory includes the source code for the models and algorithms discussed in the paper.
+- `Pedetstrian-Tracking/`: This folder contains SORT algorithm python code.
 - `figures/`: This directory holds visualizations, plots, and figures used in the paper.
 - `results/`: This folder includes evaluation results, metrics, and model outputs.
 
