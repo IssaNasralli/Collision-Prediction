@@ -23,14 +23,7 @@ Our research paper is available [here](#) (Link to be provided).
    comparative_table.py for extracting result from results saved during testing of the trained model
    create_auto_dataset.py for creating Dataset from JAAD
    "lr 0.00001.rar", "lr 0.0001.rar" and "lr 0.001.rar" are comressed folder which contains our testing results.
-- `results/`: This folder includes evaluation results, metrics, and model outputs.
+- `Trajectory-and-Collision-Prediction.py/`: This file is the program of immediate collision prediction which rely on pedestrian detection and future collision prediction by determining the future position of the pedestrian based on its predcted trajectory.
+- 
 
-## Getting Started
 
-To get started with this repository, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
