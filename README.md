@@ -15,8 +15,8 @@ Our research paper is available [here](#) (Link to be provided).
 
 ## Repository Contents
 
-- `data/`: This folder contains datasets and data-related resources used in our experiments.
-- `code/`: The code directory includes the source code for the models and algorithms discussed in the paper.
+- `Pedetstrian-Detection/`: This folder contains dataset and tlite Google models used in our analyzis to select the best model.
+- `Pedetstrian-Detection/`: The code directory includes the source code for the models and algorithms discussed in the paper.
 - `figures/`: This directory holds visualizations, plots, and figures used in the paper.
 - `results/`: This folder includes evaluation results, metrics, and model outputs.
 
