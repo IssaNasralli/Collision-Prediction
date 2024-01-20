@@ -482,7 +482,7 @@ def futureXYD(image, initial, angle, velocity_x, velocity_y, timeToFuture, err, 
             else:
                 futureX=x_c
             futureY = y_c
-            case = "case9 rectified"
+            case = "Standing rectified"
            
     # visualizing the direction of movement
     if draw:
