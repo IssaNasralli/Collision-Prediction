@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository supports our research paper on "Enhancing Pedestrian Safety in AVs with Multiple Trajectory Prediction and Action Recognition" by Issa Nasralli, Imen Masmoudi, and Hassen Drira.
+This repository supports our research paper on "Enhancing Pedestrian Safety in AVs with Multiple Trajectory Prediction and Action Recognition" by Issa Nasralli and Imen Masmoudi.
 
 ## Overview
 
